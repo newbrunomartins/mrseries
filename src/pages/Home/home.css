@@ -1,0 +1,29 @@
+.listMovie{
+    max-width: 800px;
+    margin: 15px auto;
+}
+.listMovie article{
+    width: 100%;
+    background-color: #FFF;
+    padding: 15px;
+    border-radius: 5px;
+}
+.listMovie strong{
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 22px;
+    display: block;
+}
+.listMovie img{
+    width: 230px;
+    max-width: 100%;
+    max-height: 350px;
+    object-fit:contain;
+}
+.listMovie a {
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 10px 0;
+font-size: 16px;
+}
